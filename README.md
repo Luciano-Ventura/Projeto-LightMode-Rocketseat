@@ -1,4 +1,4 @@
-# NLW eSports
+# DEVLINKS
 
 ![preview](./.github/preview.jpg)
 
