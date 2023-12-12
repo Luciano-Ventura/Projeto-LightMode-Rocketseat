@@ -32,12 +32,12 @@ body {
   background-size: cover;
   */
 
-  background: var(--bg-url) no-repeat top center/cover; 
-  height: 100vh; 
+  background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   color: var(--text-color);
 }
 
@@ -147,10 +147,9 @@ ul li a:hover {
   border-radius: 50%;
 
   transition: background 0.2s;
-
 }
 
-#social-links a:hover{
+#social-links a:hover {
   background: var(--highlight-color);
 }
 
@@ -168,4 +167,3 @@ footer {
     --bg-url: url(./assets/assets/bg-desktop-light.jpg);
   }
 }
-
