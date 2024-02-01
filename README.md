@@ -6,8 +6,6 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://maykbrito.github.io/nlw-esports-explorer/)
-
 
 ## 🛠 Tecnologias
 
@@ -17,4 +15,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 💛 Contato
 
-maykbrito@gmail.com
+jrsouzahh@gmail.com
